@@ -1,0 +1,10 @@
+{
+  "apps" : [{
+    "name": "scrumblr",
+    "max_memory_restart": "1024M",
+    "log_date_format": "YYYY-MM-DD HH:mm:ss",
+    "script": "server.js",
+    "out_file": "app.log",
+    "error_file": "err.log"
+  }]
+}
