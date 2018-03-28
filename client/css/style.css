@@ -459,6 +459,10 @@ h1.home {
 	text-align: center;
 	xline-height: .9em;
 }
+h1.logo {
+	font-size:50px;
+	cursor: pointer;
+}
 
 .home {
 	font-size: 30px;

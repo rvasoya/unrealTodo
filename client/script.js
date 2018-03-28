@@ -840,5 +840,9 @@ $(function() {
         containment: 'parent'
     });
 
+    $('.home.logo').click(function(){
+        window.history.back();
+    })
+
 
 });
