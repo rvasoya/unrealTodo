@@ -6,3 +6,5 @@ rsync.sh
 node_modules/
 *.rdb
 *.out
+app-*.log
+err-*.log
